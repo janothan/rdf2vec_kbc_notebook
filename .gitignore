@@ -1,0 +1,7 @@
+# general
+.ipynb_checkpoints/*
+
+# project-specific
+*.txt
+*.log
+python-server/*
